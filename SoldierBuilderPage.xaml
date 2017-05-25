@@ -9,7 +9,7 @@
 
     <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
         <Grid.Background>
-            <ImageBrush ImageSource="C:\Users\Pavel\Documents\Visual Studio 2015\Projects\HSEmilitary\bin\Debug\bg.jpg" Stretch="Fill"/>
+            <ImageBrush ImageSource="C:\Users\Pavel\Documents\Visual Studio 2015\Projects\HSEmilitary\bg.jpg" Stretch="Fill"/>
         </Grid.Background>
         <Label x:Name="label" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="Добро пожаловать! Заполните карточку военного." Margin="148,49,150,0" VerticalAlignment="Top" Height="31" Foreground="White" Width="303" HorizontalAlignment="Center"/>
         <Canvas Height="254" VerticalAlignment="Center" Width="374" Margin="0,120,0,38" HorizontalAlignment="Center">
